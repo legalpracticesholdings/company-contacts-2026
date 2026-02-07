@@ -1,0 +1,13 @@
+{
+  "smtp_server": "mail.foxict.com.au",
+  "smtp_port": 587,
+  "admin_email": "scott.biddlecombe@foxict.com.au",
+  "notification_recipients": [
+    "scott.biddlecombe@foxict.com.au",
+    "alerts@foxict.com.au"
+  ],
+  "from_address": "noreply@foxict.com.au",
+  "reply_to": "scott.biddlecombe@foxict.com.au",
+  "environment": "production",
+  "debug": false
+}
